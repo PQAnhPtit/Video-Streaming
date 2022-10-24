@@ -45,4 +45,4 @@ c. Hạn chế, hướng phát triển
                        |                      |  từng chức năng Play, Pause |                      |              |
 =============================================================================================================================================== 
 
-4. Mã nguồn:  https://github.com/PQAnhPtit/VideoStreaming
+4. Mã nguồn:  https://github.com/PQAnhPtit/Video-Streaming.git
